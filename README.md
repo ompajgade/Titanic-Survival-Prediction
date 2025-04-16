@@ -57,5 +57,5 @@ Use machine learning to create a model that predicts which passengers survived t
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/Titanic-Survival-Prediction.git
+   git clone https://github.com/ompajgade/Titanic-Survival-Prediction.git
    cd Titanic-Survival-Prediction
